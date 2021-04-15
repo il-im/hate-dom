@@ -1,0 +1,10 @@
+.bordered{
+    border:5px solid red
+}
+.colored{
+    background-color: green;
+}
+.powered{
+    background-color: yellow;
+    border-radius: 10px;
+}
